@@ -1,2 +1,2 @@
 # smart-contracts
-PolyGator.Finance smart contracts
+PolyGator token smart contracts
